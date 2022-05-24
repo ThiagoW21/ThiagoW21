@@ -26,9 +26,6 @@
   
 ### Trybe:
   - [Exercícios](https://github.com/ThiagoW21/trybe-exercicios)✏️<br/>
-  
-### SENAI:
-  - [Exercícios](https://github.com/ThiagoW21/)✏️
 
 ### Redes sociais: 
   <div align> 
