@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://c.tenor.com/X40xNZQ17YYAAAAC/goku-dragon-ball-z.gif" width="200px">
-  <h1> Olá, eu sou o Thiago. 🤖<h1>
-</div>
-    
 ### Sobre mim:
   - 🏠Tenho 21 anos, moro em Salvador na Bahia .
   - 💻Estudante do curso técnico de Desenvolvimento de Sistemas no SENAI. 
