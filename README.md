@@ -1,7 +1,7 @@
 ### Sobre mim:
   - 🏠Tenho 21 anos, moro em Salvador na Bahia .
-  - 💻Estudante do curso técnico de Desenvolvimento de Sistemas no SENAI. 
-  - 🌐Estudante de Desenvolvimento Web Full Stack na Trybe e DEVinhouse. 
+  - 💻Desenvolvedor Web Fullstack. 
+  - 🌐Cursando a Trybe e DEVinhouse. 
     
 <div align="center"><br>
   <a href="https://github.com/ThiagoW21">
