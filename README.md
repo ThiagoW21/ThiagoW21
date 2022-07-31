@@ -19,8 +19,6 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </div>
   
-### Trybe:
-  - [Exercícios](https://github.com/ThiagoW21/trybe-exercicios)✏️<br/>
 
 ### Redes sociais: 
   <div align> 
