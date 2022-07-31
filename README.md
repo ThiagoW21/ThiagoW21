@@ -14,6 +14,7 @@
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
