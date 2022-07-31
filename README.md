@@ -1,7 +1,7 @@
 ### Sobre mim:
   - 🏠Tenho 21 anos, moro em Salvador na Bahia .
   - 💻Estudante do curso técnico de Desenvolvimento de Sistemas no SENAI. 
-  - 🌐Estudante de Desenvolvimento Web Full Stack na Trybe. 
+  - 🌐Estudante de Desenvolvimento Web Full Stack na Trybe e DEVinhouse. 
     
 <div align="center"><br>
   <a href="https://github.com/ThiagoW21">
@@ -9,15 +9,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoW21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias que utilizo:
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
+##
+<div><br/>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://github.com/thiagow21"><img height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+</div>
+
+##
   
 
 ### Redes sociais: 
