@@ -1,7 +1,6 @@
 ### Sobre mim:
   - 🏠Tenho 21 anos, moro em Salvador na Bahia .
-  - 💻Desenvolvedor Web Fullstack. 
-  - 🌐Cursando a Trybe e DEVinhouse. 
+  - 💻Desenvolvedor Web Fullstack.
     
 <div align="center"><br>
   <a href="https://github.com/ThiagoW21">
